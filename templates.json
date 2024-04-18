@@ -6177,13 +6177,13 @@
     },
     {
       "type": 1,
-      "title": "Registry2",
+      "title": "Registry",
       "description": "Docker image registry",
       "categories": [
         "Docker"
       ],
       "platform": "linux",
-      "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png",
+      "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png5",
       "image": "registry:latest",
       "ports": [
         "5000/tcp"
@@ -14010,25 +14010,6 @@
         "stackfile": "stacks/asciinema/docker-compose.yml",
         "url": "https://github.com/shmolf/portainer-templates"
       }
-    },
-    {
-      "type": 1,
-      "title": "Registry",
-      "description": "Docker image registry",
-      "categories": [
-        "Docker"
-      ],
-      "platform": "linux",
-      "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png",
-      "image": "registry:latest",
-      "ports": [
-        "5000/tcp"
-      ],
-      "volumes": [
-        {
-          "container": "/var/lib/registry"
-        }
-      ]
     },
     {
       "type": 1,
