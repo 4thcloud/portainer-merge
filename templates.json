@@ -6183,7 +6183,7 @@
         "Docker"
       ],
       "platform": "linux",
-      "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png5",
+      "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png",
       "image": "registry:latest",
       "ports": [
         "5000/tcp"
