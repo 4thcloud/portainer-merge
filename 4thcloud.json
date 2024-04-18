@@ -3,11 +3,11 @@
   "templates": [
     {
       "type": 1,
-      "title": "Registry2",
+      "title": "Registry",
       "description": "Docker image registry",
       "categories": ["docker"],
       "platform": "linux",
-      "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png",
+      "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/registry.png5",
       "image": "registry:latest",
       "ports": ["5000/tcp"],
       "volumes": [
